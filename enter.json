@@ -1,153 +1,243 @@
 {
-   "channel_count":15,
+   "channel_count":24,
    "channels":[
       {
-         "channel_name":"MAR: Al Aoula Inter FHD",
-         "channel_logo":"http://181.233.124.44:80/images/031ab6728b4c7ba4c3d08c474ef0a978.jpg",
+         "channel_name":"SA - SAUDI SPORTS",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/SAUDI.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101873.m3u8"
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/2378"
             }
          ]
       },
       {
-         "channel_name":"MAR: Al Aoula Laayoune HD",
-         "channel_logo":"http://185.156.74.136:80/images/031ab6728b4c7ba4c3d08c474ef0a978.jpg",
+         "channel_name":"SA ⋆ SSC NEWS HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/SSC.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101874.m3u8"
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/168287"
             }
          ]
       },
       {
-         "channel_name":"MAR: 2M Monde",
-         "channel_logo":"http://5.44.253.130:80/images/dcfbb98f77ec9bfff97cd5ef424f0731.jpg",
+         "channel_name":"SA ⋆ SSC 1 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/SSC.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101875.m3u8"
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/203413"
             }
          ]
       },
       {
-         "channel_name":"MAR: 2M National",
-         "channel_logo":"http://181.233.124.55:80/images/4bf7726f27f5929bfcd3ca085e677c55.jpg",
+         "channel_name":"SA ⋆ SSC 1 4K [BK]",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/SSC.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101876.m3u8"
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/382277"
             }
          ]
       },
       {
-         "channel_name":"MAR: Al Maghribia HD",
-         "channel_logo":"http://181.233.124.44:80/images/8011a228dd6c2a7a88324d55736be2b1.jpg",
+         "channel_name":"SA ⋆ SSC 2 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/SSC.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101887.m3u8"
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/204161"
             }
          ]
       },
       {
-         "channel_name":"MAR: Chada TV",
-         "channel_logo":"http://185.156.74.136:80/images/8bf37005c6d2b74d8beaa9dc0a442a02.jpg",
+         "channel_name":"SA ⋆ SSC 2 4K [BK]",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/SSC.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101888.m3u8"
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/382281"
             }
          ]
       },
       {
-         "channel_name":"MAR: TV 5 Monde",
-         "channel_logo":"http://181.233.124.44:80/images/782ca7e9f5f47467674abd0a406492bd.png",
+         "channel_name":"SA ⋆ SSC 3 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/SSC.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101889.m3u8"
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/382287"
             }
          ]
       },
       {
-         "channel_name":"MAR: TV5",
-         "channel_logo":"http://181.233.124.44:80/images/0e5dc2a4e0ea84cc5475a81a148b7530.jpg",
+         "channel_name":"SA ⋆ SSC 3 4K [BK]",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/SSC.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101890.m3u8"
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/382285"
             }
          ]
       },
       {
-         "channel_name":"MAR: M24 MAROC",
-         "channel_logo":"http://185.156.74.136:80/images/8d4948985f50d9de8bd8bd201210ad1d.png",
+         "channel_name":"SA ⋆ SSC 1 HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/SSC.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101891.m3u8"
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/2371"
             }
          ]
       },
       {
-         "channel_name":"MAR: Medi 1 TV Arabic HD",
-         "channel_logo":"http://5.44.253.130:80/images/e95cc130956ec2b6f31889bef7c2b68d.jpg",
+         "channel_name":"SA ⋆ SSC 1 HD [BK]",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/SSC.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101877.m3u8"
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/382275"
             }
          ]
       },
       {
-         "channel_name":"MAR: Athaqafia HD",
-         "channel_logo":"http://181.233.124.55:80/images/d854551741644e8bb32bd0ac81bc495b.png",
+         "channel_name":"SA ⋆ SSC 2 HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/SSC.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101879.m3u8"
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/2372"
             }
          ]
       },
       {
-         "channel_name":"MAR: Arryadia Live HD",
-         "channel_logo":"http://5.44.253.130:80/images/8bb13c2bf3015a9b5fb54c3610299667.jpg",
+         "channel_name":"SA ⋆ SSC 2 HD [BK]",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/SSC.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101880.m3u8"
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/382279"
             }
          ]
       },
       {
-         "channel_name":"MAR: Assadissa",
-         "channel_logo":"http://5.44.253.130:80/images/6ef5847423e26fd5a3efe9312cc17e35.jpg",
+         "channel_name":"SA ⋆ SSC 3 HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/SSC.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101881.m3u8"
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/2373"
             }
          ]
       },
       {
-         "channel_name":"MAR: Tamazight HD",
-         "channel_logo":"http://181.233.124.55:80/images/0ceba589491d93978a498088081f535d.jpg",
+         "channel_name":"SA ⋆ SSC 3 HD [BK]",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/SSC.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101883.m3u8"
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/382283"
             }
          ]
       },
       {
-         "channel_name":"MAR: Tele Maroc",
-         "channel_logo":"http://5.44.253.130:80/images/c2a4b3d4b741803811d48f9aadc6bafb.jpg",
+         "channel_name":"SA ⋆ SSC 4 HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/SSC.png",
          "channel_stream":[
             {
                "video_quality":"1080p",
-               "stream_link":"http://link4tv.me:80/HmwXwp5Uy8/jvMsvqDHBY/1101886.m3u8"
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/2374"
+            }
+         ]
+      },
+      {
+         "channel_name":"SA ⋆ SSC 5 HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/SSC.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/2375"
+            }
+         ]
+      },
+      {
+         "channel_name":"SA ⋆ SSC EXTRA 1 4K",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/SSC.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/203423"
+            }
+         ]
+      },
+      {
+         "channel_name":"SA ⋆ SSC EXTRA 1 HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/SSC.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/2376"
+            }
+         ]
+      },
+      {
+         "channel_name":"SA ⋆ SSC EXTRA 2 HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/SSC.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/2377"
+            }
+         ]
+      },
+      {
+         "channel_name":"SA ⋆ SSC EXTRA 3 HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/SSC.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/79917"
+            }
+         ]
+      },
+      {
+         "channel_name":"SA ⋆ KSA SPORTS 1 HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/KSASPORTS.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/2365"
+            }
+         ]
+      },
+      {
+         "channel_name":"SA ⋆ KSA SPORTS 2 HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/KSASPORTS.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/2366"
+            }
+         ]
+      },
+      {
+         "channel_name":"SA ⋆ KSA SPORTS 3 HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/KSASPORTS.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/2367"
+            }
+         ]
+      },
+      {
+         "channel_name":"SA ⋆ KSA SPORTS 4 HD",
+         "channel_logo":"http://lg.mygolden.xyz:8080/logo/ASIA/SAUDI/KSASPORTS.png",
+         "channel_stream":[
+            {
+               "video_quality":"1080p",
+               "stream_link":"http://walidouhamid.com:80/B87W55S72G96U5/MDWCQPJOQKNODE0C/2368"
             }
          ]
       }
